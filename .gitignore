@@ -1,0 +1,39 @@
+# Build outputs
+*.apk
+*.ap_
+*.aab
+
+# Heap dump files
+*.hprof
+
+# Log files
+*.log
+
+# Gradle
+.gradle/
+/build/
+
+
+# Android Studio
+.idea/
+.gradle/
+/*/local.properties
+/*/build/
+/*/captures/
+/.externalNativeBuild/
+/.cxx/
+
+# Interllij
+*.iml
+
+# MacOS
+.DS_Store
+
+# Library files
+*.jks
+
+# Key store files
+/keystore
+
+# Local prorperties
+local.properties
