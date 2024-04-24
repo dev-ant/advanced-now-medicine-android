@@ -1,4 +1,7 @@
 # Advanced Now Medicine `Android` 
+[![Android CI](https://github.com/dev-ant/advanced-now-medicine-android/actions/workflows/android-build.yml/badge.svg)](https://github.com/dev-ant/advanced-now-medicine-android/actions)
+[![ktlint](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
+
 🚀 노인을 위한 복약 관리 도우미 “지금이약” Migration 프로젝트 🚀
 > Now Medicine `Android`  <a href="https://github.com/Nter-developer/bravo-health-park-android" target="_blank">Origin Repository</a>
 
