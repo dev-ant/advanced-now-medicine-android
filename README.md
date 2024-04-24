@@ -1,23 +1,20 @@
-# Advanced Now Medicine `Android` 
+# 🚀 복약 관리 도우미 “지금이약” Advanced 프로젝트 🚀 
 [![Android CI](https://github.com/dev-ant/advanced-now-medicine-android/actions/workflows/android-build.yml/badge.svg)](https://github.com/dev-ant/advanced-now-medicine-android/actions)
 [![ktlint](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
 
-🚀 노인을 위한 복약 관리 도우미 “지금이약” Migration 프로젝트 🚀
-> Now Medicine `Android`  <a href="https://github.com/Nter-developer/bravo-health-park-android" target="_blank">Origin Repository</a>
+<!-- ![그림1](https://github.com/dev-ant/advanced-now-medicine-android/assets/59863112/b8cb2572-5523-4b2a-8cb0-b7d057e032f0) -->
+
+이 프로젝트는 2023년 캡스톤 디자인 프로젝트였던 "지금이약"의 안드로이드 어플리케이션 업그레이드를 목표로 합니다. *전체 구조의 재구축, 약간의 기능 변화, 더 나은 성능, 가독성 및 유지 보수성을 위해 최근 안드로이드 개발 트랜드와 라이브러리를 도입하여 지난 1년간의 발전을 확인합니다.* `MVVM-Pattern`과 `Git-Flow`를 사용하고 있습니다. 원본 프로젝트와 개발 과정이 궁금하다면 아래의 링크를 확인해주세요.
+
+> Now Medicine `Android`  <a href="https://github.com/Nter-developer/bravo-health-park-android" target="_blank">Origin Repository</a> `Tech Blog` <a href="https://velog.io/@nter-developer/series/NowMedicine" target="_blank">시리즈 | NowMedicine</a>
 
 </br>
 
 ## 목차
 
-1. [개요](#-개요)
-2. [개선 사항](#-개선-사항)
-3. [추가 사항](#-추가-사항)
-4. [기능 변화](#%EF%B8%8F-기능-변화)
-
-</br>
-
-## 💡 개요
-이 프로젝트는 2023년 캡스톤 디자인 프로젝트였던 "지금이약"의 안드로이드 어플리케이션 업그레이드를 목표로 합니다. *전체 구조의 재구축, 약간의 기능 변화, 더 나은 성능, 가독성 및 유지 보수성을 위해 최근 안드로이드 개발 트랜드와 라이브러리를 도입하여 지난 1년간의 발전을 확인합니다.*
+1. [개선 사항](#-개선-사항)
+2. [추가 사항](#-추가-사항)
+3. [기능 변화](#%EF%B8%8F-기능-변화)
 
 </br>
 
